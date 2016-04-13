@@ -1,0 +1,13 @@
+.phish-login {
+	display:table-caption;
+}
+.phish {
+	display:inline;
+	font-size: 15px;
+}
+.phish-alert {
+	padding:5px;
+	background-color:red;
+	display:block;
+	text-align: center;
+}
